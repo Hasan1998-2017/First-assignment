@@ -1,5 +1,5 @@
 # First-assignment 
 <br> Multiple Html pages:
-<br>Home pagr
+<br>Home page
 <br>Resume
 <br>Projects
